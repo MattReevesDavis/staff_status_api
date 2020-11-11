@@ -19,25 +19,25 @@ class Config {
      * Database Hostname
      * @var string
      */
-    const DB_HOST = 'localhost';
+    const DB_HOST = '';
 
     /**
      * Database Name
      * @var string
      */
-    const DB_NAME = 'staff_status';
+    const DB_NAME = '';
 
     /**
      * Database User
      * @var string
      */
-    const DB_USER = 'root';
+    const DB_USER = '';
 
     /**
      * Database Password
      * @var string
      */
-    const DB_PASSWORD = 'mag3nta';
+    const DB_PASSWORD = '';
     
     /**
      * Show or hide error messages on screen
